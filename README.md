@@ -12,11 +12,11 @@
 ### Experiências intermediárias
 
 ![Javscript](https://img.shields.io/badge/JavaScript-White?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white).
 
 ### Experiências avançadas
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![Vinyzada Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyzada&layout=compact)
 
