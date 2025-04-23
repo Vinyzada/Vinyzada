@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### GitHub Statst
+### GitHub Stats
 
 ![Vinyzada Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyzada&layout=compact)
 
