@@ -4,7 +4,7 @@
 
 ## Studying Computer Science
 #### Focused on websites
-2/3 IFC-Campus Araquari
+3/3 IFC-Campus Araquari
 
 ### Experience
 ![Javscript](https://img.shields.io/badge/JavaScript-White?style=for-the-badge&logo=javascript&logoColor=white)
